@@ -1,0 +1,164 @@
+[
+  {
+    "id": 1,
+    "name": "1",
+    "parent": 1,
+    "parentName": "harmony_garden_tower" 
+  },
+  {
+    "id": 2,
+    "name": "2",
+    "parent": 1,
+    "parentName": "harmony_garden_tower"
+  },
+  {
+    "id": 3,
+    "name": "3",
+    "parent": 1,
+    "parentName": "harmony_garden_tower"
+  },
+  {
+    "id": 4,
+    "name": "4",
+    "parent": 1,
+    "parentName": "harmony_garden_tower"
+  },
+  {
+    "id": 5,
+    "name": "5",
+    "parent": 1,
+    "parentName": "harmony_garden_tower"
+  },
+  {
+    "id": 6,
+    "name": "6",
+    "parent": 1,
+    "parentName": "harmony_garden_tower"
+  },
+  {
+    "id": 7,
+    "name": "7",
+    "parent": 1,
+    "parentName": "harmony_garden_tower"
+  },
+  {
+    "id": 8,
+    "name": "8",
+    "parent": 1,
+    "parentName": "harmony_garden_tower"
+  },
+  {
+    "id": 9,
+    "name": "9",
+    "parent": 2,
+    "parentName": "paradise_building"
+  },
+  {
+    "id": 10,
+    "name": "10",
+    "parent": 2,
+    "parentName": "paradise_building"
+  },
+  {
+    "id": 11,
+    "name": "11",
+    "parent": 2,
+    "parentName": "paradise_building"
+  },
+  {
+    "id": 12,
+    "name": "12",
+    "parent": 2,
+    "parentName": "paradise_building"
+  },
+  {
+    "id": 13,
+    "name": "13",
+    "parent": 2,
+    "parentName": "paradise_building"
+  },
+  {
+    "id": 14,
+    "name": "14",
+    "parent": 2,
+    "parentName": "paradise_building"
+  },
+  {
+    "id": 15,
+    "name": "15",
+    "parent": 2,
+    "parentName": "paradise_building"
+  },
+  {
+    "id": 16,
+    "name": "16",
+    "parent": 2,
+    "parentName": "paradise_building"
+  },
+  {
+    "id": 17,
+    "name": "17",
+    "parent": 2,
+    "parentName": "paradise_building"
+  },
+  {
+    "id": 18,
+    "name": "18",
+    "parent": 2,
+    "parentName": "paradise_building"
+  },
+  {
+    "id": 19,
+    "name": "19",
+    "parent": 2,
+    "parentName": "paradise_building"
+  },
+  {
+    "id": 20,
+    "name": "20",
+    "parent": 3,
+    "parentName": "rose_tower"
+  },
+  {
+    "id": 21,
+    "name": "21",
+    "parent": 3,
+    "parentName": "rose_tower"
+  },
+  {
+    "id": 22,
+    "name": "22",
+    "parent": 4,
+    "parentName": "lovers_tower"
+  },
+  {
+    "id": 23,
+    "name": "23",
+    "parent": 4,
+    "parentName": "lovers_tower"
+  },
+  {
+    "id": 24,
+    "name": "24",
+    "parent": 4,
+    "parentName": "lovers_tower"
+  },
+  {
+    "id": 25,
+    "name": "25",
+    "parent": 4,
+    "parentName": "lovers_tower"
+  },
+  {
+    "id": 26,
+    "name": "26",
+    "parent": 4,
+    "parentName": "lovers_tower"
+  },
+  {
+    "id": 27,
+    "name": "27",
+    "parent": 4,
+    "parentName": "lovers_tower"
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "parentName": "harmony_garden_tower",
+    "name": "HARMONY GARDEN TOWER",
+    "built": 2012,
+    "description": "A residential, 9 story building, executed in a land with the surface area of 1400 square meters and building area of 3000 square meters. The unique features of this building not only is visible in its exterior, but also its interior spaces have continued the same artistic features.",
+    "top": "1",
+    "popup": [
+      {
+        "id": 1,
+        "name": "1"
+      },
+      {
+        "id": 2,
+        "name": "2"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Paradise Building",
+    "parentName": "paradise_building",
+    "built": 2006,
+    "description": "This project requires special design for its landscaping. The main focus is to create open atmosphere This project includes various facilities such as pool, gym and cinema saloons . This building was built in 5 floors with a building area of about 15000 square feet.",
+    "top": "2",
+    "popup": [
+      {
+        "id": 1,
+        "name": "3"
+      },
+      {
+        "id": 2,
+        "name": "4"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Rose Tower",
+    "parentName": "rose_tower",
+    "built": 2015,
+    "description": "Rose project is in 14 floors with a building area of about 45000 square feet including commercial and office parts. The classic design in its exterior volume , forms its unique identity.",
+    "top": "3",
+    "popup": []
+  },
+  {
+    "id": 4,
+    "name": "Lovers Tower",
+    "parentName": "lovers_tower",
+    "built": 2013,
+    "description": "This project is built in 12 floors.  In the last floor a unit is built in the form of a penthouse, With a wonderful view of the surrounding scenery. The waterfall behind the statues in the courtyard creates one of the most emotional memories for any visitor of this building. Facilities -A family cinema for residents and a billiards room in addition to many other spaces.",
+    "top": "4",
+    "popup": [
+      {
+        "id": 1,
+        "name": "5"
+      },
+      {
+        "id": 2,
+        "name": "6"
+      }
+    ]
+  }
+]
